@@ -1,9 +1,10 @@
 # AI-Project: Laeeb (Group 10)
 ## Team Members
+- 2018331115: Mizbah Uddin Junaed
 - 2018331003: Shahrab Khan Sami
 - 2018331027: Bipul Karmokar
 - 2018331053: Saikat Hossain Rony
-- 2018331115: Mizbah Uddin Junaed
+
 ##  Description
 A hand gesture recognition system provides a natural, innovative, and modern way of non-verbal communication. This is an Al system that will be given as input an image of a wrist in a particular gesture, it will identify it and output the name of the gesture.
 
